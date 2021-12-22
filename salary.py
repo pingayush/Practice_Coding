@@ -1,0 +1,6 @@
+b=int(input())
+da=(b*0.8)
+hra=(b*0.3)
+pf=(b*0.12)
+salary=float(b+(da)+(hra)-(pf))
+print(salary)
